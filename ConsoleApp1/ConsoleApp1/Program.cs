@@ -10,11 +10,11 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            double Add(double a, double b)
+            double CalculateSth(double a, double b)
             {
                 return a / b;
             }
-            Add(2, 3);
+            CalculateSth(2, 3);
         }
     }
 }
