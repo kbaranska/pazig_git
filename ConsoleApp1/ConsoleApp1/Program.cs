@@ -10,36 +10,11 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello4");
-            Console.WriteLine("Hello4");
-            Console.WriteLine("Hello4");
-            Console.WriteLine("Hello4");
-            Console.WriteLine("Hello5");
-            Console.WriteLine("Hello6");
-            Console.WriteLine("Hello8");
-            Console.WriteLine("Hello3");
-            Console.WriteLine("Hello4");
-            Console.WriteLine("Hello3");
-            Console.WriteLine("Hello3");
-            Console.WriteLine("Hello6");
-            Console.WriteLine("Hello8");
-            Console.WriteLine("Hello3");
-            Console.WriteLine("Hello4");
-            Console.WriteLine("Hello3");
-            Console.WriteLine("Hello3");
-            Console.WriteLine("Hello6");
-            Console.WriteLine("Hello8");
-            Console.WriteLine("Hello4");
-            Console.WriteLine("Hello3");
-            Console.WriteLine("Hello5"); 
-            Console.WriteLine("Hello4");
-            Console.WriteLine("Hello4");
-            Console.WriteLine("Hello3");
-            Console.WriteLine("Hello5");
-            Console.WriteLine("Hello8");
-            Console.WriteLine("Hello4");
-            Console.WriteLine("Hello8");
-            Console.WriteLine("Hello5");
+            double Add(double a, double b)
+            {
+                return a + b;
+            }
+            Add(2, 3);
         }
     }
 }
