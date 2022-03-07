@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
             double CalculateSth(double a, double b)
             {
-                return a + b;
+                return a % b;
             }
             CalculateSth(2, 3);
         }
