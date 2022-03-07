@@ -15,6 +15,18 @@ namespace ConsoleApp1
             Console.WriteLine("Hello3");
             Console.WriteLine("Hello6");
             Console.WriteLine("Hello8");
+            Console.WriteLine("Hello3");
+            Console.WriteLine("Hello4");
+            Console.WriteLine("Hello3");
+            Console.WriteLine("Hello3");
+            Console.WriteLine("Hello6");
+            Console.WriteLine("Hello8");
+            Console.WriteLine("Hello3");
+            Console.WriteLine("Hello4");
+            Console.WriteLine("Hello3");
+            Console.WriteLine("Hello3");
+            Console.WriteLine("Hello6");
+            Console.WriteLine("Hello8");
             Console.WriteLine("Hello4");
         }
     }
